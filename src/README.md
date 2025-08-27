@@ -10,34 +10,20 @@ heroFullScreen: true
 tagline: 凡是过往,皆为序章.
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
-
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
-
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 此项目
+    desc: 一个基于vuepress-theme-hope的博客项目
+    link: https://github.com/zxlwl/blogs
 
   - icon: newspaper
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+    name: 如何建立博客
+    desc: 这是一篇介绍如何建立博客的文章
+    link: './posts/tech/2.md'
 
   - icon: user-group
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: 朋友
+    desc: 我的朋友
+    link: './intro.md'
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
 
 footer: Hi,今夜的星空格外美丽~
 ---
